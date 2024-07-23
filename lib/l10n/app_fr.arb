@@ -1,0 +1,141 @@
+{
+    "language": "Français",
+    "@language": {
+      "description": "The current Language"
+    },
+    "hello_world": "Bonjour le monde",
+    "@hello_world": {
+      "description": "A greeting message"
+    },
+    "sign_up": "S'inscrire",
+    "@sign_up": {
+      "description": "S'inscrire"
+    },
+    "welcome_to_your_app": "Bienvenue dans votre application",
+    "@welcome_to_your_app": {
+      "description": "Bienvenue dans votre application"
+    },
+    "create_parent_account": "Créer un compte parent",
+    "@create_parent_account": {
+      "description": "Créer un compte parent"
+    },
+    "monitor_child_progress": "Surveillez les progrès de votre enfant et soutenez sa croissance.",
+    "@monitor_child_progress": {
+      "description": "Surveillez les progrès de votre enfant et soutenez sa croissance."
+    },
+    "display_name": "Nom d'affichage",
+    "@display_name": {
+      "description": "Nom d'affichage"
+    },
+    "email": "email",
+    "@email": {
+      "description": "email"
+    },
+    "password": "Mot de passe",
+    "@password": {
+      "description": "Mot de passe"
+    },
+    "password_again": "Mot de passe encore",
+    "@password_again": {
+      "description": "Mot de passe encore"
+    },
+    "have_account_login": "Vous avez un compte? Connexion",
+    "@have_account_login": {
+      "description": "Vous avez un compte? Connexion"
+    },
+    "login": "Connexion",
+    "@login": {
+      "description": "Connexion"
+    },
+    "welcome_to_our_app": "Bienvenue dans notre application.",
+    "@welcome_to_our_app": {
+      "description": "Bienvenue dans notre application."
+    },
+    "dont_have_account_signup": "Vous n'avez pas de compte? S'inscrire",
+    "@dont_have_account_signup": {
+      "description": "Vous n'avez pas de compte? S'inscrire"
+    },
+    "kid": "Enfant",
+  "@kid": {
+    "description": "Enfant"
+  },
+  "no_pdf_added": "Vous n'avez ajouté aucun pdf à l'application",
+  "@no_pdf_added": {
+    "description": "Vous n'avez ajouté aucun pdf à l'application"
+  },
+  "click_add_pdf": "Cliquez sur + pour ajouter un nouveau pdf",
+  "@click_add_pdf": {
+    "description": "Cliquez sur + pour ajouter un nouveau pdf"
+  },
+  "pdf_name": "Nom du pdf : ",
+  "@pdf_name": {
+    "description": "Nom du pdf : "
+  },
+  "created_at": "Créé le : ",
+  "@created_at": {
+    "description": "Créé le : "
+  },
+  "created_by": "Créé par : ",
+  "@created_by": {
+    "description": "Créé par : "
+  },
+  "add_pdf": "Ajouter un pdf",
+  "@add_pdf": {
+    "description": "Ajouter un pdf"
+  },
+  "upload_pdf": "Télécharger le pdf",
+  "@upload_pdf": {
+    "description": "Télécharger le pdf"
+  },
+  "done": "Terminé",
+  "@done": {
+    "description": "Terminé"
+  },
+  "something_wrong": "Quelque chose s'est mal passé",
+  "@something_wrong": {
+    "description": "Quelque chose s'est mal passé"
+  },
+  "user_canceled_file_selection": "L'utilisateur a annulé la sélection du fichier.",
+  "@user_canceled_file_selection": {
+    "description": "L'utilisateur a annulé la sélection du fichier."
+  },
+  "no_parents_yet": "Il n'y a pas encore de parents",
+  "list_of_parents": "Liste des parents :",
+  "no_kids_yet": "Il n'y a pas encore d'enfants",
+  "list_of_kids": "Liste des enfants :",
+  "no_youtube_videos": "Vous n'avez ajouté aucun vidéo YOUTUBE à l'application",
+  "add_new_video": "Cliquez sur + pour ajouter une nouvelle vidéo",
+  "edit_video": "Modifier la vidéo",
+  "add_video": "Ajouter une vidéo",
+  "video_title": "Titre de la vidéo",
+  "video_url": "URL de la vidéo",
+  "video_description": "Description de la vidéo",
+  "save": "Sauvegarder",
+  "edit": "Modifier",
+  "logout": "Se déconnecter",
+  "years": "Années",
+  "no_kids_added": "Vous n'avez ajouté aucun enfant à l'application",
+  "add_new_kid": "Cliquez sur + pour ajouter votre enfant",
+  "enter_your": "Entrer votre",
+  "profile": "Profil",
+  "age": "Âge",
+  "loading": "Chargement...",
+  "parent": "Parent",
+  "child_number": "Numéro d'enfant",
+    "best_score": "Meilleur score",
+    "child_name": "Nom de l'enfant :",
+    "admin_zone": "Zone Admin",
+    "parent_zone": "Zone Parent",
+    "home": "Accueil",
+    "list_of_stories": "Liste des histoires",
+    "no_story_yet": "Pas encore d'histoire",
+    "welcome": "Bienvenue",
+    "learn_today": "Que voulez-vous apprendre aujourd'hui ?",
+    "learning_journey": "Commençons un voyage d'apprentissage et de jeu ensemble, avec une série de leçons et de jeux amusants !",
+    "stories": "Histoires",
+    "videos": "Vidéos",
+    "games": "Jeux",
+    "list_of_videos": "Liste des vidéos",
+    "no_video_yet": "Pas encore de vidéo"
+  }
+  

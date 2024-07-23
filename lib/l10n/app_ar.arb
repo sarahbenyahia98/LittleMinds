@@ -1,0 +1,141 @@
+{
+    "language": "العربية",
+    "@language": {
+      "description": "The current Language"
+    },
+    "hello_world": "مرحبا بالعالم",
+    "@hello_world": {
+      "description": "A greeting message"
+    },
+    "sign_up": "سجل",
+    "@sign_up": {
+      "description": "سجل"
+    },
+    "welcome_to_your_app": "مرحبًا بك في تطبيقك",
+    "@welcome_to_your_app": {
+      "description": "مرحبًا بك في تطبيقك"
+    },
+    "create_parent_account": "إنشاء حساب الوالدين",
+    "@create_parent_account": {
+      "description": "إنشاء حساب الوالدين"
+    },
+    "monitor_child_progress": "راقب تقدم طفلك وادعمه في نموه.",
+    "@monitor_child_progress": {
+      "description": "راقب تقدم طفلك وادعمه في نموه."
+    },
+    "display_name": "اسم العرض",
+    "@display_name": {
+      "description": "اسم العرض"
+    },
+    "email": "البريد الإلكتروني",
+    "@email": {
+      "description": "البريد الإلكتروني"
+    },
+    "password": "كلمة المرور",
+    "@password": {
+      "description": "كلمة المرور"
+    },
+    "password_again": "أعد كلمة المرور",
+    "@password_again": {
+      "description": "أعد كلمة المرور"
+    },
+    "have_account_login": "هل لديك حساب؟ تسجيل الدخول",
+    "@have_account_login": {
+      "description": "هل لديك حساب؟ تسجيل الدخول"
+    },
+    "login": "تسجيل الدخول",
+    "@login": {
+      "description": "تسجيل الدخول"
+    },
+    "welcome_to_our_app": "مرحبًا بك في تطبيقنا.",
+    "@welcome_to_our_app": {
+      "description": "مرحبًا بك في تطبيقنا."
+    },
+    "dont_have_account_signup": "لا تملك حسابًا؟ سجل",
+    "@dont_have_account_signup": {
+      "description": "لا تملك حسابًا؟ سجل"
+    },
+    "kid": "طفل",
+  "@kid": {
+    "description": "طفل"
+  },
+  "no_pdf_added": "لم تقم بإضافة أي ملف pdf إلى التطبيق",
+  "@no_pdf_added": {
+    "description": "لم تقم بإضافة أي ملف pdf إلى التطبيق"
+  },
+  "click_add_pdf": "اضغط + لإضافة ملف pdf جديد",
+  "@click_add_pdf": {
+    "description": "اضغط + لإضافة ملف pdf جديد"
+  },
+  "pdf_name": "اسم ملف pdf : ",
+  "@pdf_name": {
+    "description": "اسم ملف pdf : "
+  },
+  "created_at": "أنشئ في : ",
+  "@created_at": {
+    "description": "أنشئ في : "
+  },
+  "created_by": "أنشأه : ",
+  "@created_by": {
+    "description": "أنشأه : "
+  },
+  "add_pdf": "إضافة ملف pdf",
+  "@add_pdf": {
+    "description": "إضافة ملف pdf"
+  },
+  "upload_pdf": "رفع ملف pdf",
+  "@upload_pdf": {
+    "description": "رفع ملف pdf"
+  },
+  "done": "تم",
+  "@done": {
+    "description": "تم"
+  },
+  "something_wrong": "حدث خطأ ما",
+  "@something_wrong": {
+    "description": "حدث خطأ ما"
+  },
+  "user_canceled_file_selection": "المستخدم ألغى اختيار الملف.",
+  "@user_canceled_file_selection": {
+    "description": "المستخدم ألغى اختيار الملف."
+  },
+  "no_parents_yet": "لا يوجد أولياء حتى الآن",
+  "list_of_parents": "قائمة الأولياء:",
+  "no_kids_yet": "لا يوجد أطفال حتى الآن",
+  "list_of_kids": "قائمة الأطفال:",
+  "no_youtube_videos": "لا توجد أي فيديوهات يوتيوب مضافة للتطبيق",
+  "add_new_video": "اضغط + لإضافة فيديو جديد",
+  "edit_video": "تعديل الفيديو",
+  "add_video": "إضافة فيديو",
+  "video_title": "عنوان الفيديو",
+  "video_url": "رابط الفيديو",
+  "video_description": "وصف الفيديو",
+  "save": "حفظ",
+  "edit": "تعديل",
+  "logout": "تسجيل الخروج",
+  "years": "سنوات",
+  "no_kids_added": "لا يوجد أطفال مضافين للتطبيق",
+  "add_new_kid": "اضغط + لإضافة طفلك",
+  "enter_your": "إدخال",
+  "profile": "الملف الشخصي",
+  "age": "العمر",
+  "loading":"جاري التحميل...",
+  "parent": "والد",
+  "child_number": "رقم الطفل",
+    "best_score": "أفضل نتيجة",
+    "child_name": "اسم الطفل:",
+    "admin_zone": "منطقة الإدارة",
+    "parent_zone": "منطقة الوالدين",
+    "home": "الصفحة الرئيسية",
+    "list_of_stories": "قائمة القصص",
+    "no_story_yet": "لا توجد قصص بعد",
+    "welcome": "مرحباً بك",
+    "learn_today": "ماذا تريد أن تتعلم اليوم؟",
+    "learning_journey": "دعنا نبدأ رحلة من التعلم واللعب سوياً، مع مجموعة من الدروس التعليمية والألعاب المسلية!",
+    "stories": "قصص",
+    "videos": "فيديوهات",
+    "games": "الألعاب",
+    "list_of_videos": "قائمة الفيديوهات",
+    "no_video_yet": "لا توجد فيديوهات بعد"
+  }
+  

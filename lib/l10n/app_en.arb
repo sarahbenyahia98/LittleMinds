@@ -1,0 +1,138 @@
+{
+    "language": "English",
+    "@language": {
+      "description": "The current Language"
+    },
+   
+    "sign_up": "Sign up",
+    "@sign_up": {
+      "description": "Sign up"
+    },
+    "welcome_to_your_app": "Welcome to Your App",
+    "@welcome_to_your_app": {
+      "description": "Welcome to Your App"
+    },
+    "create_parent_account": "Create Parent Account",
+    "@create_parent_account": {
+      "description": "Create Parent Account"
+    },
+    "monitor_child_progress": "Monitor your child's progress and support their growth.",
+    "@monitor_child_progress": {
+      "description": "Monitor your child's progress and support their growth."
+    },
+    "display_name": "DisplayName",
+    "@display_name": {
+      "description": "DisplayName"
+    },
+    "email": "email",
+    "@email": {
+      "description": "email"
+    },
+    "password": "Password",
+    "@password": {
+      "description": "Password"
+    },
+    "password_again": "Password again",
+    "@password_again": {
+      "description": "Password again"
+    },
+    "have_account_login": "Have an account? Login",
+    "@have_account_login": {
+      "description": "Have an account? Login"
+    },
+    "login": "Login",
+    "@login": {
+      "description": "Login"
+    },
+    "welcome_to_our_app": "Welcome to Our App.",
+    "@welcome_to_our_app": {
+      "description": "Welcome to Our App."
+    },
+    "dont_have_account_signup": "Don't have an account? Sign Up",
+    "@dont_have_account_signup": {
+      "description": "Don't have an account? Sign Up"
+    },
+    "kid": "Kid",
+    "@kid": {
+      "description": "Kid"
+    },
+    "no_pdf_added": "You don't have any pdf added to the app",
+    "@no_pdf_added": {
+      "description": "You don't have any pdf added to the app"
+    },
+    "click_add_pdf": "Click + to add new pdf",
+    "@click_add_pdf": {
+      "description": "Click + to add new pdf"
+    },
+    "pdf_name": "Pdf Name : ",
+    "@pdf_name": {
+      "description": "Pdf Name : "
+    },
+    "created_at": "Created at : ",
+    "@created_at": {
+      "description": "Created at : "
+    },
+    "created_by": "Created by : ",
+    "@created_by": {
+      "description": "Created by : "
+    },
+    "add_pdf": "Add Pdf",
+    "@add_pdf": {
+      "description": "Add Pdf"
+    },
+    "upload_pdf": "Upload pdf",
+    "@upload_pdf": {
+      "description": "Upload pdf"
+    },
+    "done": "Done",
+    "@done": {
+      "description": "Done"
+    },
+    "something_wrong": "Something wrong happened",
+    "@something_wrong": {
+      "description": "Something wrong happened"
+    },
+    "user_canceled_file_selection": "User canceled file selection.",
+    "@user_canceled_file_selection": {
+      "description": "User canceled file selection."
+    },
+    "no_parents_yet": "There is no Parent Yet",
+  "list_of_parents": "List of Parents:",
+  "no_kids_yet": "There is no Kids Yet",
+  "list_of_kids": "List of Kids:",
+  "no_youtube_videos": "You don't have any YOUTUBE Video added to the app",
+  "add_new_video": "Click + to add new video",
+  "edit_video": "Edit Video",
+  "add_video": "Add Video",
+  "video_title": "Video Title",
+  "video_url": "Video Url",
+  "video_description": "Video Description",
+  "save": "Save",
+  "edit": "Edit",
+  "logout": "Logout",
+  "years": "Years",
+  "no_kids_added": "You don't have any kids added to the app",
+  "add_new_kid": "Click + to add your kid",
+  "enter_your": "Enter your",
+  "profile": "Profile",
+  "loading": "Loading...",
+  "age": "Age",
+  "child_number": "Child number",
+    "best_score": "Best Score",
+    "child_name": "Child Name:",
+  "parent": "Parent",
+  "admin_zone": "Admin Zone",
+    "parent_zone": "Parent Zone",
+    "home": "Home",
+    "list_of_stories": "List Of Stories",
+    "no_story_yet": "There is no Story Yet",
+    "welcome": "Welcome",
+    "learn_today": "What do you want to learn today?",
+    "learning_journey": "Let's start a journey of learning and play together, with a range of educational lessons and fun games!",
+    "stories": "Stories",
+    "videos": "Videos",
+    "games": "Games",
+    "list_of_videos": "List Of Videos",
+    "no_video_yet": "There is no Video Yet"
+  }
+  
